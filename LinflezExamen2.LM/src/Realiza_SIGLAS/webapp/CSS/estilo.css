@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+header{
+	
+	display: flex;
+	text-align: center;
+	padding-left: 2%;
+	padding-right: 3%;
+	background-color: lightgreen;	
+
+}
+.imgUsu{
+	 border-left: 28%;
+	 border-right: 28%;
+	 font-size: 5%;
+	 	
+}
+.titulo{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 3%;
+	font-size: 15px;
+     color: hotpink;
+}
+
+.fila{
+	background-color: black;
+	padding: 4px;
+	
+}
+.modelo{
+	color: white;
+	margin-left: 12px;
+	border: dotted red;
+	padding-left: 12px;
+	padding-right: 18px;
+	margin-right: 28px;
+	
+	
+	
+}
+.cv{
+	color: white;
+	margin-right: 18px;
+	border: dotted red;
+	padding-left: 12px;
+	padding-right: 18px;
+	text-align: right;
+}
+main{
+	
+	background-color: lightgoldenrodyellow;
+	
+}
+.titulo2{
+	
+	color: white;
+	text-align: center;
+
+	
+}
+
+
+
